@@ -8,3 +8,4 @@ Course: Computer science
 Age : 18
 father name: xyz
 mother name: xyz
+practical: 4th ops exam
